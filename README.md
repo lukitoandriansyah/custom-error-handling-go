@@ -21,7 +21,7 @@ go run main.go
 # 📂Project Structure
 
 ```plaintext
-/customize-handling-error-using-go
+/custom-error-handling-go
 │── /biodata
 │── /struct_model
 │── /struct_response
